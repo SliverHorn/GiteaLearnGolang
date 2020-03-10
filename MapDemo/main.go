@@ -131,7 +131,7 @@ func eleventh() {
 	fmt.Println(mapSlice[0] == nil)
 	// 还需要完成内部map元素的初始化
 	mapSlice[0] = make(map[string]int, 8) // 完成map的初始化
-	mapSlice[0]["xxx"] = 100
+	mapSlice[0]["main"] = 100
 	fmt.Println(mapSlice)
 }
 

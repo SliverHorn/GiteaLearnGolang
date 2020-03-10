@@ -24,8 +24,8 @@ require (
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/tommy-muehle/go-mnd v1.3.0 // indirect
 	golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527 // indirect
-	golang.org/x/tools v0.0.0-20200304024140-c4206d458c3f // indirect
-	gopkg.in/ini.v1 v1.52.0 // indirect
+	golang.org/x/tools v0.0.0-20200309202150-20ab64c0d93f // indirect
+	gopkg.in/ini.v1 v1.54.0 // indirect
 	honnef.co/go/tools v0.0.1-2020.1.3 // indirect
 	mvdan.cc/unparam v0.0.0-20191111180625-960b1ec0f2c2 // indirect
 	sourcegraph.com/sqs/pbtypes v1.0.0 // indirect
